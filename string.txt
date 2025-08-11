@@ -1,0 +1,22 @@
+String is immutable 
+
+Important methods:
+name="rohit"
+ char single =name.charAt(0) // index
+
+ name.toCharArray()
+
+ name.substring(1); // ohit
+ name.substring(1,2);  // o
+
+
+ "hello my name is rohit jha".split("");
+
+ name.trim() // remove space
+
+ name.repeat(10)
+
+
+
+
+ 
