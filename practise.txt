@@ -1,0 +1,2 @@
+dice number is 6
+and we have to calculate the number of position to sum up to 10
